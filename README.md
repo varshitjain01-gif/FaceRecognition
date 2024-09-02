@@ -17,7 +17,7 @@ Easily extendable and customizable
 1. Prepare the Dataset
 2. Train the Model
 3. Run Face Recognition
-4. 
+
 
 ## Contributing
 
